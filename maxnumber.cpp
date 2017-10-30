@@ -15,6 +15,7 @@ main ()
 			max=x;
 	}
 		printf("max. number is %d;", max);
+		printf("Ending...")
 getch();
 }
 
