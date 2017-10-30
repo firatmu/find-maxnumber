@@ -7,7 +7,7 @@ main ()
 	int x=0;
 	int max=0;
 	
-	for (int i = 1; i <= 10; i++)
+	for (int i = 1; i <= 5; i++)
 	{
 		printf("%d.Please enter a number: ",i);
 		scanf("%d",&x);
