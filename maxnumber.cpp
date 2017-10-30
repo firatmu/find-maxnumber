@@ -14,7 +14,7 @@ main ()
 		if (x>max)
 			max=x;
 	}
-		printf("Max. number %d;", max);
+		printf("max. number %d;", max);
 getch();
 }
 
